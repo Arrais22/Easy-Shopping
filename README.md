@@ -10,5 +10,6 @@ Nesse projeto a intenção principal foi exatamente treinar e exercitar a respon
 <br>
 <h2>Essa é a versão para celular</h2>
 <br>
+<img src="https://github.com/Arrais22/Easy-Shopping/blob/master/assets/print%20easy%20shooping2.jpg?raw=true"/>
 
 
